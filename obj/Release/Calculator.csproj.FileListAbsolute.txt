@@ -1,0 +1,10 @@
+C:\Users\ksrin\Documents\TINFO200\Calculator\bin\Release\Calculator.exe.config
+C:\Users\ksrin\Documents\TINFO200\Calculator\bin\Release\Calculator.exe
+C:\Users\ksrin\Documents\TINFO200\Calculator\bin\Release\Calculator.pdb
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.exe
+C:\Users\ksrin\Documents\TINFO200\Calculator\obj\Release\Calculator.pdb
